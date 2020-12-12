@@ -1,0 +1,43 @@
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.exe.config
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.exe
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.pdb
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\MaterialDesignColors.dll
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\MaterialSkin.dll
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csprojAssemblyReference.cache
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.Form1.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.formREFLEX.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.formROT.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.nuevoFORM.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.opcionesFORM.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.Properties.Resources.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.subgrFORM.resources
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csproj.GenerateResource.cache
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csproj.CoreCompileInputs.cache
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csproj.CopyComplete
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.exe
+C:\Users\j-and\Downloads\Algebra 0.0.3\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.pdb
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.exe.config
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.exe
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\Algebra 0.0.3.pdb
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\MaterialDesignColors.dll
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\MaterialSkin.dll
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.calSIM.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.cLATERALES.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.Form1.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.formREFLEX.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.formROT.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.gSimetria.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.nuevoFORM.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.opcionesFORM.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.Properties.Resources.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra_0._0._3.subgrFORM.resources
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csproj.GenerateResource.Cache
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.csproj.CoreCompileInputs.cache
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.exe
+D:\PROYECTOS EN Csharp\Algebra 0.0.3\obj\Debug\Algebra 0.0.3.pdb

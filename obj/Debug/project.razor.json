@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\PROYECTOS EN Csharp\\Algebra 0.0.3\\Algebra 0.0.3.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
